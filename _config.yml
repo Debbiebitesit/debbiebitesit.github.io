@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Blogbites
+title: Bite the Blog
 email: debbie@bite-it.eu
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bite-it.eu" # the base hostname & protocol for your site
 twitter_username: Debbie_Bites_It
-linkedin_username: Debbie Philtjens
-
+linkedin: Debbie Philtjens
+facebook: Debbie Philtjens
 # Build settings
 markdown: kramdown
