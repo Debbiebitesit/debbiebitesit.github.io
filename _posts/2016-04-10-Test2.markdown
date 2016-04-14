@@ -2,7 +2,7 @@
 layout: post
 title:  "Hoi, ik ben Debbie"
 date:   2016-04-20 
-categories: 
+categories: test
 ---
 Hoi, 
 
