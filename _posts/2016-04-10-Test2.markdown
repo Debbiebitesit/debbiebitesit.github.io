@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "De eerste indruk2"
-date:   2016-01-05 
-categories: Psychologie - HR - Eerste indrukken
+title:  "Hoi, ik ben Debbie"
+date:   2016-04-20 
+categories: 
 ---
+Hoi, 
 
-
-
-TEST 2A
+Ik ben Debbie, en ik baifhlaehfliazhzflhalfhalhflahfluzhflhfhzljhflazjhfjljzhfazhf
 
 
 
