@@ -2,7 +2,7 @@
 layout: post
 title:  "De eerste"
 date:   2016-01-05 
-categories: Psychologie - HR - Eerste indrukken
+categories: psychologie
 ---
 
 
