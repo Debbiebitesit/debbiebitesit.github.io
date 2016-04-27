@@ -4,9 +4,34 @@ title:  Waarom keuzes moeilijk zijn
 date:   2016-04-14 
 categories: psychologie, coaching, keuzes
 ---
-test ervoor
-![My helpful screenshot](http://www.bite-it.eu/aanbod/droomdurfdoe.jpg)
-test erna
+Ga ik opstaan, blijf ik liggen?
+Wat ga ik eten? Havermout of Griekse yoghurt?
+Wat doe ik aan vandaag? 
+Neem ik de trein of de auto? 
+Wat eten we vanavond? 
+Ga ik sporten of toch maar de boekhouding doen?
+Ga ik mijn ontslag geven vandaag?
+Hoe wil ik dat mijn relatie evolueert?
+Een mandarijntje of liever toch een kiwi? 
 
-Nu zou ik hier toch graag tekst zien
+Talloze vragen komen elke dag op je af, de een al "belangrijker" dan de ander. Hierdoor maak je elke dag tientallen beslissingen die tijd in beslag nemen. Tijd waarmee je ook andere dingen kan doen, want weer nu eerlijk. Hoe belangrijk is het of je een kiwi of een mandarijntje eet? Wat je ontbijt is? 
+
+Inderdaad, dat zijn “energievretende” keuzes, ze leveren je weinig op en kosten enkel tijd en moeite. Diezelfde energie zou je ook kunnen spenderen aan beslissingen rond je relatie, je job, …. Dingen die misschien toch net iets “belangrijker” zijn. 
+
+
+![My helpful screenshot](http://aviewtoathrill.net/wp-content/uploads/2014/07/tired.jpg)
+Hoe ga je hiermee om? Waarom zou je dit soort keuzes beperken? 
+
+Laten we enkele voorbeelden nemen! 
+Steve van Apple,  Barack van de USA en Mark van Facebook zijn best wel stevige kerels, toch? Mensen die op plaatsen zitten (of zaten) waarin ze invloed hadden, vooruitgang boekte en – laat ons eerlijk zijn – veel meer verantwoordelijkheden hebben dan de standaard. Waarop besparen zijn? 
+Kijk eens goed naar de foto’s. 
+
+
+
 ![My helpful screenshot](http://www.bite-it.eu/aanbod/droomdurfdoe.jpg)
+
+Zie je het verband? Ze maken zich geen zorgen om onbenullige dingen. Maakt het uit wat je draagt? Elke dag win je tijd én energie. Beslissingsenergie die je kan gebruiken voor grotere beslissingen. “Hoe ga ik de gezondheidszorg verbeteren”, “Kan ik met Facebook ook helpen in tijden van terreur”, “Kan ik een gebruiksvriendelijk en toegankelijk multimediatoestel maken” … Die dingen kan je zowel in een Hawaiihemd als in een pak. Dus ze kiezen een neutrale outfit waarin ze zich comfortabel voelen. 
+Ik ga het uittesten, ik schrap voor de komende maand al mijn “onbelangrijke keuzes”. Ik heb mijn kleding opgedeeld in: “werk met regen” en “werk zonder regen”, ik ga elke ochtend ontbijten met wat ik lekker vind (een eier-muffin), lunch wordt saladebar op kantoor en elke avond ga ik het lot laten bepalen welk recept ik kook uit de kookboeken die thuis op het aanrecht staan of ik laat mijn vriend koken (dan maakt hij de beslissing maar). Daarmee moet ik al heel wat energie kunnen besparen, dus ook meer rust ervaren en sneller belangrijke beslissingen nemen. Benieuwd of één maand reeds een verschil kan maken. Deze energie ga ik gebruiken voor de bouwwerken waar ik momenteel mee bezig ben en mijn bedrijf dat ik volle uitbreiding zit. 
+In dit proces heb ik met mezelf afgesproken geen stress te ervaren, me geen zorgen te maken over wat anderen denken en vooral gewoon mijn buikgevoel te volgen. 
+
+Wil jij ook met een zeker gevoel beter beslissingen kunnen nemen? Neem contact met me op! Samen maken we van jou de meest efficiënte keuzemaker, wat bijdraagt tot je eigen geluk. Je kan je zekerder voelen, je doelen bepalen en gaan voor wat je echt wil. 
