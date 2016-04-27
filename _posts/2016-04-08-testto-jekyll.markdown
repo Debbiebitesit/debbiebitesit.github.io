@@ -9,3 +9,4 @@ test ervoor
 test erna
 
 Nu zou ik hier toch graag tekst zien
+![My helpful screenshot](http://www.bite-it.eu/aanbod/droomdurfdoe.jpg)
