@@ -4,24 +4,17 @@ title:  Waarom keuzes maken zo moeilijk is
 date:   2016-01-01
 categories: psychologie
 ---
+Hoeveel keuzes maak jij op een dag? 
+
 Ga ik opstaan, blijf ik liggen?
-
 Wat ga ik eten? Havermout of Griekse yoghurt?
-
 Wat doe ik aan vandaag? 
-
 Neem ik de trein of de auto? 
-
 Wat eten we vanavond? 
-
 Ga ik sporten of toch maar de boekhouding doen?
-
 Ga ik mijn ontslag geven vandaag?
-
 Hoe wil ik dat mijn relatie evolueert?
-
 Een mandarijntje of liever toch een kiwi? 
-
 Wil ik die handtas, of zal ik toch maar sparen voor een onverwachte uitgave? 
 
 
