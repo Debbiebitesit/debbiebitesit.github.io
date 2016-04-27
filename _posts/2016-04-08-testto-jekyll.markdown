@@ -7,3 +7,5 @@ categories: psychologie, coaching, keuzes
 test ervoor
 ![My helpful screenshot](http://www.bite-it.eu/aanbod/droomdurfdoe.jpg)
 test erna
+
+Nu zou ik hier toch graag tekst zien
