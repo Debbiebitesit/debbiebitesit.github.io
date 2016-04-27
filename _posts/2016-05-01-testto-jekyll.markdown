@@ -6,15 +6,25 @@ categories: psychologie
 ---
 
 Ga ik opstaan, blijf ik liggen?
+
 Wat ga ik eten? Havermout of Griekse yoghurt?
+
 Wat doe ik aan vandaag? 
+
 Neem ik de trein of de auto? 
+
 Wat eten we vanavond? 
+
 Ga ik sporten of toch maar de boekhouding doen?
+
 Ga ik mijn ontslag geven vandaag?
+
 Hoe wil ik dat mijn relatie evolueert?
+
 Een mandarijntje of liever toch een kiwi? 
+
 Wil ik die handtas, of zal ik toch maar sparen voor een onverwachte uitgave? 
+
 
 Talloze vragen komen elke dag op je af, de een al "belangrijker" dan de ander. Hierdoor maak je elke dag tientallen beslissingen die tijd in beslag nemen. Tijd waarmee je ook andere dingen kan doen, want weer nu eerlijk. Hoe belangrijk is het of je een kiwi of een mandarijntje eet? Wat je ontbijt is? Maakt dat écht iets uit?
 
