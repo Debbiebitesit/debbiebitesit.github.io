@@ -4,7 +4,6 @@ title:  Waarom keuzes maken zo moeilijk is
 date:   2016-01-01
 categories: psychologie
 ---
-
 Ga ik opstaan, blijf ik liggen?
 
 Wat ga ik eten? Havermout of Griekse yoghurt?
