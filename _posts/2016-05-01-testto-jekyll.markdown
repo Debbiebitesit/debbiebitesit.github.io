@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Waarom kiezen zo moeilijk is
-date:   2016-05-01 
-categories: psychologie, coaching, keuzes
+title:  "De eerste"
+date:   2016-01-05 
+categories: psychologie
 ---
+
 Ga ik opstaan, blijf ik liggen?
 Wat ga ik eten? Havermout of Griekse yoghurt?
 Wat doe ik aan vandaag? 
