@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "De eerste"
+title:  Waarom keuzes moeilijk zijn
 date:   2016-04-14 
-categories: psychologie
+categories: psychologie, coaching, keuzes
 ---
 
 
-Hoi
+
 
 
 
