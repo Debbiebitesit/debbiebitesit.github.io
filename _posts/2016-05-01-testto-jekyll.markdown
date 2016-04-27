@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "De eerste"
-date:   2016-01-05 
+title:  Waarom keuzes maken zo moeilijk is
+date:   2016-05-01 
 categories: psychologie
 ---
 
