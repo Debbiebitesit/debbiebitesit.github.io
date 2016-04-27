@@ -6,7 +6,7 @@ categories: psychologie
 ---
 Hoeveel keuzes maak jij op een dag? 
 
-Ga ik opstaan, blijf ik liggen?
+Ga ik opstaan, blijf ik liggen?<p>
 Wat ga ik eten? Havermout of Griekse yoghurt?
 Wat doe ik aan vandaag? 
 Neem ik de trein of de auto? 
