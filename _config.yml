@@ -18,12 +18,12 @@ facebook: Debbie Philtjens
 # Build settings
 markdown: kramdown
 
-#Settings for comments helper
+# Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
 # Set 'provider' to false to turn commenting off globally.
 #
-
 comments :
-provider : custom
+  provider : disqus
+  disqus :
+    short_name : jekyllbootstrap
   
-
