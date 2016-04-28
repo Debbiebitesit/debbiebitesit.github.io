@@ -4,6 +4,7 @@ title:  Waarom keuzes maken zo moeilijk is
 date:   2016-01-01
 comments : true
 categories: psychologie
+./_includes/custom/comments
 ---
 Hoeveel keuzes maak jij op een dag?<br>
 
