@@ -24,6 +24,6 @@ markdown: kramdown
 #
 comments :
   provider : disqus
-  disqus :
+  disqus : Debbie Philtjens
     short_name : jekyllbootstrap
   
